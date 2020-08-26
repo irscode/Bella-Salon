@@ -18,6 +18,14 @@ text-align: center;
   padding: 0 4px;
   width: 100%;
 }
+
+img {
+  margin-top: 8px;
+ /* vertical-align: middle;*/
+  width: 30%; 
+  height: 30%;
+  
+}
 /*
 
 body {
