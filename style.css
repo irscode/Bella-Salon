@@ -9,6 +9,7 @@ body {
 h3 {
 font-family: 'Caveat', cursive;
 text-align: center;
+font-size: 35px;
 }
 
 .row {
@@ -18,12 +19,18 @@ text-align: center;
   padding: 0 4px;
   width: 100%;
 }
-
+.jamesbond{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 img {
   margin-top: 8px;
  /* vertical-align: middle;*/
   width: 30%; 
   height: 30%;
+  
   
 }
 /*
